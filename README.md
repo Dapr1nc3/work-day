@@ -12,7 +12,8 @@ This application allows the user to make events for planning their day and to be
 https://dapr1nc3.github.io/work-day/
 
 ## Website Screenshot
-![Work Day Devin application](https://watch.screencastify.com/v/K4uqe2VYYUV9mrU3VsrQ)
+![work-day-ss](https://user-images.githubusercontent.com/87787132/143657803-76688e23-8558-4645-9d50-4c7e02801a8f.png)
+
 
 ## Contribution
 Made by Dapr1nc3
